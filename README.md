@@ -1,6 +1,6 @@
 # Ex-6-IMPLEMENTATION-OF-THE-BACK-END-OF-THE-COMPILER-
 IMPLEMENTATION OF THE BACK END OF THE COMPILER 
-# Date :
+# Date :21-05-2026
 # Aim :
 To write a program to implement the back end of the compiler.
 # ALGORITHM
@@ -11,6 +11,12 @@ To write a program to implement the back end of the compiler.
 5. Target code for the given statement is produced.
 6. Stop the program.
 # PROGRAM
+```
+```
 # OUTPUT
+
+<img width="1469" height="506" alt="image" src="https://github.com/user-attachments/assets/87ebb844-56bf-4d1a-9d44-b1392a20efe6" />
+
+
 # Result
 The back end of the compiler is implemented successfully, and the output is verified.
